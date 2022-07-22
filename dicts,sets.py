@@ -1,6 +1,6 @@
-telephone_dict = dict()
-capitals_dict = {'Russia': 'Moscow', 'Ukraine': 'Kiev'}
-dict_ = {'a': 'alpha', 'o': 'omega', 'g': 'gamma'}
+# telephone_dict = dict()
+# capitals_dict = {'Russia': 'Moscow', 'Ukraine': 'Kiev'}
+# dict_ = {'a': 'alpha', 'o': 'omega', 'g': 'gamma'}
 # ключами словарей могут быть только неизменяемые типы данных: строки, кортежи, целые числа, булевые значения и тд.
 # print(capitals_dict['Russia'])
 #
